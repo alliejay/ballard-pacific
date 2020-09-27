@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ballard-web/static/css/main.450212d4.chunk.css",
+    "main.js": "/ballard-web/static/js/main.ed0eef3c.chunk.js",
+    "main.js.map": "/ballard-web/static/js/main.ed0eef3c.chunk.js.map",
+    "runtime-main.js": "/ballard-web/static/js/runtime-main.74e8745e.js",
+    "runtime-main.js.map": "/ballard-web/static/js/runtime-main.74e8745e.js.map",
+    "static/css/2.9edc93b8.chunk.css": "/ballard-web/static/css/2.9edc93b8.chunk.css",
+    "static/js/2.52a5fc68.chunk.js": "/ballard-web/static/js/2.52a5fc68.chunk.js",
+    "static/js/2.52a5fc68.chunk.js.map": "/ballard-web/static/js/2.52a5fc68.chunk.js.map",
+    "index.html": "/ballard-web/index.html",
+    "precache-manifest.9f4f5bde6b7975721b65d643cf08d30e.js": "/ballard-web/precache-manifest.9f4f5bde6b7975721b65d643cf08d30e.js",
+    "service-worker.js": "/ballard-web/service-worker.js",
+    "static/css/2.9edc93b8.chunk.css.map": "/ballard-web/static/css/2.9edc93b8.chunk.css.map",
+    "static/css/main.450212d4.chunk.css.map": "/ballard-web/static/css/main.450212d4.chunk.css.map",
+    "static/js/2.52a5fc68.chunk.js.LICENSE.txt": "/ballard-web/static/js/2.52a5fc68.chunk.js.LICENSE.txt",
+    "static/media/actionwheels.jpeg": "/ballard-web/static/media/actionwheels.a94d5bf9.jpeg",
+    "static/media/banner.jpg": "/ballard-web/static/media/banner.c97228c4.jpg",
+    "static/media/batman.png": "/ballard-web/static/media/batman.680db5db.png",
+    "static/media/columbia2.png": "/ballard-web/static/media/columbia2.fbcef838.png",
+    "static/media/disney.jpg": "/ballard-web/static/media/disney.7db6f7fd.jpg",
+    "static/media/honda-6vt.jpeg": "/ballard-web/static/media/honda-6vt.d381196d.jpeg",
+    "static/media/honda.jpg": "/ballard-web/static/media/honda.439dd83c.jpg",
+    "static/media/honda12vt.jpeg": "/ballard-web/static/media/honda12vt.a0c585bc.jpeg",
+    "static/media/logo.png": "/ballard-web/static/media/logo.48eb9710.png",
+    "static/media/seascooter.jpg": "/ballard-web/static/media/seascooter.aaae3a78.jpg",
+    "static/media/warnerbros.png": "/ballard-web/static/media/warnerbros.4a2a6cc2.png",
+    "static/media/yamaha.jpg": "/ballard-web/static/media/yamaha.7ac0534c.jpg",
+    "static/media/yamaha12vt.jpeg": "/ballard-web/static/media/yamaha12vt.75232b4e.jpeg",
+    "static/media/yamahabikeblue.jpeg": "/ballard-web/static/media/yamahabikeblue.558004ff.jpeg",
+    "static/media/styles.scss": "/ballard-web/static/media/youtube-icon.d06d4cb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74e8745e.js",
+    "static/css/2.9edc93b8.chunk.css",
+    "static/js/2.52a5fc68.chunk.js",
+    "static/css/main.450212d4.chunk.css",
+    "static/js/main.ed0eef3c.chunk.js"
+  ]
+}
